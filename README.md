@@ -7,4 +7,4 @@ The notebook starts with cleaning of the data and seperating the tweets into par
 
 This project utlizes the NLTK library to manage tokenizing words and other aspects. Word clouds help understand the strongest words and to help further clean the data. The model accuracy is explored through scoring and a learning curve.
 
-Bonus: At the end of the notebook, SVM and Decison Trees are used for classification rather then Logistic Regression. The resuls are briefly discussed.
+Bonus: At the end of the notebook, SVM and Decison Trees are used for classification rather then Logistic Regression. The results are briefly discussed.
